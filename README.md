@@ -13,7 +13,7 @@
 - 📫 Me contacter :
   - 🌐 [Portfolio](https://jeanauryel.github.io/portfolio/)
   - 💼 [LinkedIn](https://www.linkedin.com/in/jean-auryel-isma%C3%ABl-akinotcho-a60a0661?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- ⚡ Fun fact : J’adore transformer une idée simple en application concrète et fonctionnelle !
+- ⚡ Fun fact : Mon intérêt pour l'informatique a commencé à croitre exponentiellement lorsque je n'avais plus accès à internet et que je me suis posé la question : comment sont imbriquées les differentes structures qui permettent aujourd'hui d'avoir accès à internet, aux sites web, et à tout ce qui permet cette interconnectivité mondiale ? Comme quoi se déconnecter permet parfois de se poser les bonnes questions.
 
 ---
 
