@@ -7,7 +7,7 @@
 
 ### ✨ À propos de moi
 
-- 🔭 Je travaille actuellement sur : **Deliver_easy** et **Arka Mobile**
+- 🔭 Je travaille actuellement sur : **NurseCare** et **Arka Mobile**
 - 🌱 J’apprends en ce moment : `Kotlin`, `Laravel`, `Ktorm`, `Python`
 - 💬 Ask me about : `Vue.js`, `Angular`, `TailwindCSS`, `Express.js`, `MySQL`
 - 📫 Me contacter :
